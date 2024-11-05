@@ -7,7 +7,7 @@ import cors from 'cors'
 
 // app config
 const app = express()
-const port = process.env.PORT || 4000
+const port = process.env.PORT || 80
 
 
 
